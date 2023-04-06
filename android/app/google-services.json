@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561018028231",
+    "project_id": "carsbee-42b56",
+    "storage_bucket": "carsbee-42b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561018028231:android:20527745b01dc1897a7ee2",
+        "android_client_info": {
+          "package_name": "com.example.car_wash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561018028231-bcg7ji9djdv1oitke043h9fidsme4gm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidn2lrzrSwXjxQBVetAY7Ux9MAZSNWzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561018028231-bcg7ji9djdv1oitke043h9fidsme4gm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
